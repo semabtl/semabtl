@@ -2,9 +2,9 @@
 
 I am **Sema Betül Kocatepe**. I'm a new graduate from Yıldız Technical University ✨
 
-I like to work on web projects. I develope projects using C#, .NET, Entity Framework, Java, PostgreSQL, MSSQL, HTML, CSS and more technologies. I like developing both Frontend and Backend side of the projects.
+I like to work on web projects. I like developing both Frontend and Backend side of the projects. The technologies I use are: C#, .NET, Entity Framework, Java, PostgreSQL, MSSQL, HTML, CSS and more.
 
-I'm interested in Artificial Intelligence and Machine Learning too. I made two projects using Machine Learning models: "Multiple Object Tracking" and "Topic Modeling and Sentiment Analysis".
+I'm interested in Artificial Intelligence and Machine Learning too. I made two projects using Machine Learning models: "Multiple Object Tracking in Video" and "Topic Modeling and Sentiment Analysis".
 
 I am trying to improve myself every day. I like studying and I'm trying to learn new things. 
 
