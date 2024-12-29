@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am **Sema Betül Kocatepe**. I'm a new graduate from Yıldız Technical University ✨
+I am **Sema Betül Kocatepe**. I'm a new graduate from Yıldız Technical University.
 
 I like to work on web projects. I like developing both Frontend and Backend side of the projects. The technologies I use are: C#, .NET, Entity Framework, Java, PostgreSQL, MSSQL, HTML, CSS and more.
 
