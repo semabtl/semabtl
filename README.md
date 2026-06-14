@@ -1,12 +1,14 @@
 ## Hi 👋
 
-I am **Sema Betül Kocatepe**. I'm a new graduate from Yıldız Technical University.
+I am **Sema Betül Kocatepe**. I'm a Software Developer with around 2 years of experience, graduated from Yıldız Technical University.
 
-I like to work on web projects. I like developing both Frontend and Backend side of the projects. The technologies I use are: C#, .NET, Entity Framework, Java, PostgreSQL, MSSQL, HTML, CSS and more.
+Currently, I work in the software infrastructure team at Uyumsoft, specializing in backend development for ERP systems. In my role, I focus on building core system components.
 
-I'm interested in Artificial Intelligence and Machine Learning too. I made two projects using Machine Learning models: "Multiple Object Tracking in Video" and "Topic Modeling and Sentiment Analysis".
+I enjoy building web applications and have experience across both Frontend and Backend development. The technologies I use include: C#, .NET, Entity Framework, Java, PostgreSQL, MSSQL, HTML, CSS, and Docker.
 
-I am trying to improve myself every day. I like studying and I'm trying to learn new things. 
+I have an interest in Artificial Intelligence and Machine Learning too. I previously built two ML-focused projects: "Multiple Object Tracking in Video" and "Topic Modeling and Sentiment Analysis".
+
+I am trying to improve myself every day. I love studying, adapting to new technologies, and continuously expanding my skill set.
 
 You can review my account and reach me via LinkedIn: www.linkedin.com/in/semabetulkocatepe
 
