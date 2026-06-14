@@ -2,7 +2,7 @@
 
 I am **Sema Betül Kocatepe**. I'm a Software Developer with around 2 years of experience, graduated from Yıldız Technical University.
 
-Currently, I work in the software infrastructure team at Uyumsoft, specializing in backend development for ERP systems. In my role, I focus on building core system components.
+Currently, I work in the software infrastructure team at Uyumsoft, specializing in backend development for ERP systems. In my role, I focus on building core system components that are used in ERP systems and various other projects.
 
 I enjoy building web applications and have experience across both Frontend and Backend development. The technologies I use include: C#, .NET, Entity Framework, Java, PostgreSQL, MSSQL, HTML, CSS, and Docker.
 
